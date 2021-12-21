@@ -1,4 +1,4 @@
-![Header](./header-transparent.png)
+![Header](profile/header-transparent.png)
 
 ## Herzlich Willkommen bei der Angular.Schule!
 Wir machen Sie und Ihr Team fit für das Webframework **Angular** – in offenen Gruppen oder individuellen Inhouse-Schulungen. Von den Buchautoren und Google Developer Experts (GDE) **Johannes Hoppe** und **Ferdinand Malcher**.

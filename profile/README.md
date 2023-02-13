@@ -6,5 +6,5 @@ Wir machen Sie und Ihr Team fit für das Webframework **Angular** – in offenen
 ### 📅 Nächster Termin
 
 **Online-Intensivworkshop Angular**<br>
-22. Februar bis 1. März 2023 (6 Tage)<br>
+3.-10. Mai 2023 (6 Tage)<br>
 Tickets und Infos: https://angular.schule/schulungen/online

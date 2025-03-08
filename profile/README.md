@@ -3,9 +3,10 @@
 ## Herzlich Willkommen bei der Angular.Schule!
 Wir machen Sie und Ihr Team fit für das Webframework **Angular** – in offenen Gruppen oder individuellen Inhouse-Schulungen. Von den Buchautoren und Google Developer Experts (GDE) **Johannes Hoppe** und **Ferdinand Malcher**.
 
-### 📅 Nächster Termin
+### 📅 Nächste Termine
 
-**Online-Intensivworkshop Angular**<br>
+**Online-Intensivworkshop Angular & RxJS**<br>
 26. März bis 2. April 2025 (6 Tage)<br>
+14.-21. Mai 2025 (6 Tage)<br>
 Tickets und Infos: https://angular.schule/schulungen/online
 

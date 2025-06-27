@@ -6,6 +6,6 @@ Wir machen Sie und Ihr Team fit für das Webframework **Angular** – in offenen
 ### 📅 Nächste Termine
 
 **Online-Intensivworkshop Angular & RxJS**<br>
-26. Juni bis 3. Juli 2025 (6 Tage)<br>
+5.-12. November 2025 (6 Tage)<br>
 Tickets und Infos: https://angular.schule/schulungen/online
 

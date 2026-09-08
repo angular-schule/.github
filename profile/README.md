@@ -6,6 +6,6 @@ Wir machen dich und dein Team fit für das Webframework **Angular** – in offen
 ### 📅 Nächste Termine
 
 **Online-Intensivworkshop Angular & Signals**<br>
-19.-25. November 2026 (6 Tage)<br>
+19.-25. November 2026 (5 Tage)<br>
 Tickets und Infos: https://angular.schule/schulungen/online
 
